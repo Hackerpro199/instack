@@ -1,0 +1,7 @@
+pkg ugrade && pkg update
+Pkg install git
+git clone https://github.com/hackerpro199/xinsta_brute
+Cd insta_brute
+Bash setup
+And open a new session and type
+bash xinsta_brute.sh
